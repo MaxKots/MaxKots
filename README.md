@@ -59,7 +59,7 @@
      Блок для рекрутеров!
 -->
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1234&reversal=true&section=footer" alt="footer"/>
 
 <!--
      Спасибо за визит <3
