@@ -86,6 +86,9 @@
 <!--
      Блок для рекрутеров!
 -->
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/1_nbRBwiKkYfAfIAEsZAq_WU37PXKeKoB/view?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1234&reversal=true&section=footer" alt="footer"/>
 :trollface:
