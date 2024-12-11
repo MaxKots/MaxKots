@@ -43,7 +43,7 @@
      Сюда еще добавить всякие штуки
 -->
 
-### Education:
+### :mortar_board: Education:
 
 #### • Presidential Academy of National Economy and Public Administration <ins>2024</ins>
  *Faculty of Finance and Banking. Master‘s degree with honors.* CGPA/Percentage: **4.9**
@@ -51,7 +51,7 @@
  *Faculty of Applied Economics and Commerce. Bachelor‘s degree.* CGPA/Percentage: **4.5**
 
 
-### Working Experience
+### :briefcase: Working Experience
 
 #### - VTB Bank  (<ins>Data engineer (Head of the division)</ins>. Moscow)
 *Aug 2023 - Jul 2024*
@@ -88,7 +88,7 @@
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1234&reversal=true&section=footer" alt="footer"/>
-
+:trollface:
 <!--
      Спасибо за визит <3
 -->
