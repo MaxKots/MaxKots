@@ -45,8 +45,36 @@
 
 ### Education:
 
+#### • Presidential Academy of National Economy and Public Administration <ins>2024</ins>
+ *Faculty of Finance and Banking. Master‘s degree with honors.* CGPA/Percentage: **4.9**
+#### • Moscow State Institute of International Relations <ins>2018</ins>
+ *Faculty of Applied Economics and Commerce. Bachelor‘s degree.* CGPA/Percentage: **4.5**
 
-### Working expirience
+
+### Working Experience
+
+#### - VTB Bank  (<ins>Data engineer (Head of the division)</ins>. Moscow)
+*Aug 2023 - Jul 2024*
+
+* ETL jobs integration into AML data pipelines.
+* Feature engineering for ML development.
+
+#### - VTB Bank (<ins>Data engineer</ins>. Moscow)
+*Jan 2023 - Aug 2023*
+
+* Participated in DWH development using Teradata and SAS
+* Improved the efficiency of banking complience procedures
+
+#### - VTB Bank (<ins>Data analyst</ins>. Moscow)
+*Oct 2020 - Dec 2022*
+
+* DWH analysis and ETL process management in the field of anti-money laundering
+* Improved the efficiency of banking complience procedures
+
+#### - Ministry of Defence of the Russian Federation (<ins>Data analyst</ins>. Moscow)
+*Sep 2019 - Sep 2020*
+* Data analysis in government anti-fraud activities
+* Management reporting automation
 
 
 ### About me
