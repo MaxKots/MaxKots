@@ -28,6 +28,7 @@
 -->
 
 ### My purpose
+I`am truly keen on data and everything related. Data structures, Data processing, databases, building complex ETL\ELT processes are exactly the directions in which I found myslf. Solving complex problems has become an integral part of my life and my entire career is somehow connected with data analytics, data science and data engineering - directions in which I am constantly developing.
 
 <!--
     Список моих навыков и инструментов, которые я изучаю!
