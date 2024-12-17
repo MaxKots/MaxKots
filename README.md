@@ -12,7 +12,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1234&reversal=true&animation=fadeIn&fontAlign=33&fontAlignY=50&textBg=false&strokeWidth=0&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=071522B6&width=435&lines=Greetings%2C+i`m+Max+Kotsyuba;Senior+data+engineer" alt="Data engineer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=071522B6&width=435&lines=Greetings%2C+I`am+Max+Kotsyuba;Senior+data+engineer" alt="Data engineer"/>
 </a>
 
 <!--
