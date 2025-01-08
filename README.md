@@ -50,10 +50,10 @@ I`am truly keen on data and everything related. Data structures, Data processing
 &emsp;*Faculty of Computer Science.* CGPA/Percentage: **?**
 
 #### • Presidential Academy of National Economy and Public Administration <ins>2024</ins>
-&emsp;*Faculty of Finance and Banking. Master‘s degree with honors.* CGPA/Percentage: **4.9**
+&emsp;*Faculty of Finance and Banking. Master‘s degree with honors.* CGPA/Percentage: **4.9/5**
 
 #### • Moscow State Institute of International Relations <ins>2018</ins>
-&emsp;*Faculty of Applied Economics and Commerce. Bachelor‘s degree.* CGPA/Percentage: **4.5**
+&emsp;*Faculty of Applied Economics and Commerce. Bachelor‘s degree.* CGPA/Percentage: **4.5/5**
 
 
 ### :briefcase: Working Experience
